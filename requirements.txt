@@ -2,4 +2,4 @@
 snowflake-connector-python[pandas]
 # pyarrow<10.1.0,>=10.0.1
 # pyarrow==8.0.0
-pyarrow<8.1.0,>=8.0.0;
+pyarrow<8.1.0,>=8.0.0
